@@ -1,0 +1,12 @@
+D:\Study\C# 296 Project\Project\PushAndPop\obj\Debug\PushAndPop.MainForm.resources
+D:\Study\C# 296 Project\Project\PushAndPop\obj\Debug\PushAndPop.Properties.Resources.resources
+D:\Study\C# 296 Project\Project\PushAndPop\obj\Debug\PushAndPop.csproj.GenerateResource.cache
+D:\Study\C# 296 Project\Project\PushAndPop\obj\Debug\PushAndPop.csproj.CoreCompileInputs.cache
+D:\Study\C# 296 Project\Project\PushAndPop\bin\Debug\PushAndPop.exe
+D:\Study\C# 296 Project\Project\PushAndPop\bin\Debug\PushAndPop.pdb
+D:\Study\C# 296 Project\Project\PushAndPop\obj\Debug\PushAndPop.exe
+D:\Study\C# 296 Project\Project\PushAndPop\obj\Debug\PushAndPop.pdb
+D:\Study\C# 296 Project\Project\PushAndPop\bin\Debug\GameLib.dll
+D:\Study\C# 296 Project\Project\PushAndPop\bin\Debug\GameLib.pdb
+D:\Study\C# 296 Project\Project\PushAndPop\obj\Debug\PushAndPop.csproj.CopyComplete
+D:\Study\C# 296 Project\Project\PushAndPop\obj\Debug\PushAndPop.csprojAssemblyReference.cache
